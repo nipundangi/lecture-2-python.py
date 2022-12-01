@@ -16,7 +16,7 @@ iter("Shivang")
 #a=1
 #print(a.__iter__)
 
-a= "Harsh"
+a= "Nipun"
 print(a.__iter__)
 for c in a:
   print(c)
