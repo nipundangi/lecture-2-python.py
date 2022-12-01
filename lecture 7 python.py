@@ -74,7 +74,7 @@ for i in range(5):
 #print("rest of the code")
 
 if True:
-  "Harsh Sehrawart"
+  "NipunDangi"
 print("rest of the code")
 
 if True:
@@ -85,17 +85,17 @@ print("rest of the code")
 for i in range(5):
   print(i)
 else:
-  print("Harsh")
+  print("Nipun")
 
 for i in range(5):
   print(i)
   if i ==3:
     break
 else:
-  print("Harsh")
+  print("Nipun")
 
 for i in range(5):
   print(i)
   if i ==3:
     break
-print("Harsh")
+print("Nipun")
